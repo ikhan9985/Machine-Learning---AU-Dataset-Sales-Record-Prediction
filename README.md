@@ -21,4 +21,5 @@ To run the code, ensure that you have installed the following libraries:
 * matplotlib
 * statsmodels
 * scikit-learn
+
 The data should be in an Excel file with two columns: 'Year' and 'Product 1', 'Product 2', etc.
